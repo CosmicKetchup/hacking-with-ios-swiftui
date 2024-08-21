@@ -30,12 +30,17 @@
     - [ ] [Project 13: Instafilter](#)
     - [ ] [Project 14: Bucket List](#)
     - [ ] [Project 15: Accessibility](#)
-    - [ ] [Milestone 6: TBA](#)
+    - [ ] [Milestone 6: Remember Me, Part 1](#)
+    - [ ] [Challenge: Remember Me, Part 2](#)
 7. **Controlling UI Flow**
-    - [ ] [Project 16: TBA](#)
-    - [ ] [Project 17: TBA](#)
-    - [ ] [Project 18: TBA](#)
-    - [ ] [Milestone 7: TBA](#)
+    - [ ] [Project 16: Hot Prospects](#)
+    - [ ] [Project 17: Flashzilla](#)
+    - [ ] [Project 18: Layout and Geometry](#)
+    - [ ] [Milestone 7: Dice Roller](#)
 8. **One Last Project**
-    - [ ] [Project 19: TBA](#)
+    - [ ] [Project 19: SnowSeeker](#)
+9. **Additional Content**
+    - [ ] [Project 20: Drawing](#)
+    - [ ] [Project 21: Core Data](#)
+
 <hr>
