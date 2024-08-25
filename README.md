@@ -44,3 +44,5 @@
     - [ ] [Project 21: Core Data](#)
 
 <hr>
+
+- **composite assignment operators** are effectively shortened basic mathematical operations
