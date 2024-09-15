@@ -46,3 +46,5 @@
 <hr>
 
 - **composite assignment operators** are effectively shortened basic mathematical operations
+- property observers inherently include `oldValue` and `newValue` containers within
+- create custom initializers within extensions to preserve the default initializer
